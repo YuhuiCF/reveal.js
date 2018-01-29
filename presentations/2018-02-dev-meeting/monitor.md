@@ -13,4 +13,5 @@
 3. Listen to Customers (feature vs need)
 
 Notes:
-Data Culture (Business metrics for Ops and Managers, collect and analyse data / conversion)
+* Data Culture (Business metrics for Ops and Managers, collect and analyse data / conversion)
+* How FE collects data for key components/changes
